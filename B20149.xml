@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To our trusty and well-beloved General Monck to be by him communicated to the President and Council of State, and to the officers of the armies under his command.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20149</idno><idno type="EEBO-CITATION">99888847</idno>
+  <idno type="VID">196359</idno>
+  <idno type="EEBO-PROQUEST">2240901936</idno>
+  
+            <idno type="STC">Wing C3612</idno>
+            <idno type="STC">Interim Tract Supplement Guide 807.g.5.[6]</idno>
+            <idno type="STC">ESTC R232325</idno>
+            <idno type="PROQUEST">ocm99888847</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888847e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196359)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:3[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To our trusty and well-beloved General Monck to be by him communicated to the President and Council of State, and to the officers of the armies under his command.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Bladen, by special order,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: at Breda this 4/14 of April 1660. in the 12. year of our reign.</note>
+                  <note>Steele: 4 April 1660; Breda: 14 April 1660.</note>
+                  <note>Steele notation: ever Force published.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term type="corporate_name">Great Britain. --  Army --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:196359:1"/>
+            <head>To Our Trusty and Well-beloved General <hi>Monck</hi> to be by him communicated to the President and Council of State, and to the Officers of the Armies under his command.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">T</seg>Rustie and well-beloved, We greet you well.</salute>
+            </opener>
+            <p>It cannot be believed but that We have been, are, and ever must be as sollicitous as We can by all endeavours, to improve the affections of our good Subjects at home, and to procure the assistance of Our Friends and Allies abroad, for the Recovery of that Right which by the Laws of God and Man is unquestionable, and of which We have been so long dispossessed by such a Force, and with those Circumstances as We do not desire to aggravate by any sharp Expressions, but rather wish that the Memory of what is passed may be buried in the World. That We have more endeavoured to prepare and to improve the Affections of Our Subjects at home for Our Restauration, than to procure assistance from abroad, to invade either of Our Kingdoms, is manifest to the whole World. And We cannot give a better evidence that We are still of the same mind, than in that conjuncture when common reason must satisfie all Men, That We cannot be with<g ref="char:EOLhyphen"/>out an assistance from abroad, We chuse rather to send to You, who have it in Your own power to prevent that ruine and desolation which a War would bring upon the Nation, and to make the whole Kingdom owe the Peace, Happi<g ref="char:EOLhyphen"/>ness, Security and Glory it shall enjoy to your virtue: And to acknowledg that your Armies have complied with their Obligations for which they were first raised for the preservation of the Protestant Religion, the honor and dignity of the King, the Privileges of Parliament, the Liberty and Propriety of the Subject, and the Fundamental Laws of the Land; and that you have vindicated that Trust, which others most perfidiously abused and betrayed. How much We desire and resolve to contribute to those good ends, will appear to you by Our inclosed Declaration, which We desire you to cause to be published for the information and satisfaction of all good Subjects, who do not desire a further effusion of precious Christian bloud, but to have their Peace and Security founded upon that which can onely support it, a unity of affections amongst our selves, an equal administration of justice to all men, restoring Parliaments to a full capacity of providing for all that is amiss, and the Laws of the Land to their due vindication: You have been your selves witnesses of so many revolutions, and have had so much experience how far any power and authority that is onely assumed by Passion and appetite, and not supported by justice, is from providing for the Peace and Happiness of a people, or from receiving any obedience from them, without which no Government can provide for them; that you may very reason<g ref="char:EOLhyphen"/>ably believe, That God hath not been well pleased with the attempts that have been made, since he hath usually increas<g ref="char:EOLhyphen"/>ed the confusion, by giving all the success that hath been desired, and brought that to pass without effect, which the de<g ref="char:EOLhyphen"/>signers have proposed as the best means to settle and compose the Nation, and therefore We cannot but hope and believe that you will concur with us in the Remedie We have applied, which to humane understanding is onely proper for the Ills We groan under; and that you may make your selves the blessed instruments to bring the blessing of Peace and Re<g ref="char:EOLhyphen"/>conciliation upon King and People, it being the usual method in which the Divine Providence delighteth it self, to use and sanctifie those very means which ill men design for the satisfaction of private and particular ends and ambition, and other wicked purposes, to wholsom and publick ends, and to establish that good which is most contrary to the Design<g ref="char:EOLhyphen"/>ers, which is the greatest manifestation of Gods peculiar kindness to a Nation that can be given in this world. How far We resolve to preserve your Interests, and to reward your Services We refer to Our Declaration; and We hope God will inspire you to perform your duty to Vs and to your native Country, whose happiness cannot be separated from each other. We have entrusted our well-beloved Servant Sir <hi>Iohn Greenvil</hi> Gentleman of Our Bed-chamber, to deliver this unto you, and to give us an account of your reception of it, and to desire you in Our Name, That it may be published. And so We bid you farewell.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Breda</hi>
+                  <date>this 4/14 of April 1660, in the 12. year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin</hi> Printed by <hi>William Bladen,</hi> by special Order, <hi>Anno Dom</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
